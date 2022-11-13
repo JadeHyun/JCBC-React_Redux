@@ -1,0 +1,10 @@
+/* 상품 리스트 */
+/* 상품 이미지 스타일 */
+.product-img {
+  position: relative;
+  width: 380px;
+  height: 380px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  overflow: hidden;
+}
